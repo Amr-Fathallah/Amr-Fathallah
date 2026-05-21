@@ -12,7 +12,7 @@ I don't just design parts; I analyze the interactions between mechanical dynamic
 ### Tech Stack & Tools
 * **Modeling & Simulation:** MATLAB/Simulink, Simscape
 * **CAD & Mechanical Design:** SolidWorks
-* **Programming & Embedded:** C/C++, ESP32, ROS 2
+* **Programming:** C/C++
 * **Industrial Automation:** TIA Portal (PLC)
 
 Through academic projects and team collaborations, I am always eager to apply control theory in action. Let's build something that moves! 🚀
