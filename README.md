@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Amr Fathallah 👋
 
-<!--
-**Amr-Fathallah/Amr-Fathallah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Mechatronics Engineering student at Assiut University with a passion for system-level engineering. Hand-in-hand with engineering challenges, I work on bridging theoretical models and practical mechatronic systems. 
 
-Here are some ideas to get you started:
+I don't just design parts; I analyze the interactions between mechanical dynamics, control systems, and automation to evaluate trade-offs and boost overall system performance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# What I Do
+*System Integration:* Bridging theoretical control models with physical hardware in robotics and vehicle dynamics.
+*Analytical Frameworks:* Transforming complex problems into structured, actionable solutions and algorithms.
+*Subsystem Interaction:* Applying system-level thinking to ensure seamless communication between mechanical parts and embedded electronics.
+
+# Tech Stack & Tools
+*Modeling & Simulation:* MATLAB/Simulink, Simscape
+*CAD & Mechanical Design:* SolidWorks
+*Programming & Embedded:* C/C++
+*Industrial Automation:* TIA Portal (PLC)
+
+Through academic projects and team collaborations, I am always eager to apply control theory in action. Let's build something that moves! 🚀
